@@ -1,4 +1,12 @@
 streamlit
 plotly
+ta
 pandas
 numpy
+yfinance
+requests
+scipy
+matplotlib
+seaborn
+scikit-learn
+datetime
