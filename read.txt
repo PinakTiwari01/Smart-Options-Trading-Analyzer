@@ -1,0 +1,9 @@
+streamlit run app.py
+
+streamlit run app2.py  BSE CSV
+
+streamlit run app3.py  NSE CSV
+
+streamlit run app4.py  option selling 
+
+streamlit run app5.py
